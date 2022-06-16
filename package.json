@@ -1,0 +1,23 @@
+{
+  "name": "kasperframe",
+  "version": "1.0.0",
+  "description": "Gcode generator for camera slider",
+  "main": "KasperFrame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasperkat/KasperFrame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasperkat/KasperFrame/issues"
+  },
+  "homepage": "https://github.com/kasperkat/KasperFrame#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "serialport": "^10.4.0"
+  }
+}
